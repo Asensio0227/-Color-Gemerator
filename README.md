@@ -1,1 +1,1 @@
-# -Color-Geerator
+# -Color-Generator
